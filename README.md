@@ -241,7 +241,5 @@ Important values:
 
 ---
 
-## License
-
-Add your license here (for example: MIT).
+Author :Edwin Thomas
 
