@@ -5,7 +5,7 @@ from pathlib import Path
 PROJECT_TITLE = "Screen Time, Sleep & Stress Analysis"
 
 # Raw dataset path provided by user (absolute)
-RAW_DATA_PATH = Path(r"C:\Users\edwin\Desktop\PYspiders\ML\ML_PROOJECT\data\Smartphone_Usage_Productivity_Dataset.csv")
+RAW_DATA_PATH = Path("Smartphone_Usage_Productivity_Dataset.csv")
 
 # Default in-project dataset path
 BASE_DIR = Path(__file__).resolve().parent
