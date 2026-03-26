@@ -37,4 +37,3 @@ def main(text_column: Optional[str] = None) -> None:
 
 if __name__ == "__main__":
     main()
-
