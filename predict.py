@@ -83,4 +83,3 @@ def get_feature_importance(model: Any) -> Optional[Dict[str, float]]:
     except Exception as exc:
         logger.error("Failed to extract feature importances: %s", exc)
         return None
-
