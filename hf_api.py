@@ -49,3 +49,4 @@ def generate_ai_response(ticket_text: str) -> str:
         logger.error("LLM error: %s", exc)
         return f"LLM Error: {str(exc)}"
 
+
