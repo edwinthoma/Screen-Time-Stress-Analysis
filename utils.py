@@ -277,7 +277,6 @@ def train_and_select_model(
             ),
         ),
     }
-
     results: Dict[str, Dict[str, Any]] = {}
     best_model_name = None
     best_accuracy = -1.0
